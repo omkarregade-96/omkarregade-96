@@ -1,56 +1,48 @@
+```markdown
+# 👋 Hi, I'm Omkar Regade
+
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&vCenter=true&width=520&lines=Omkar+Regade;I+am+learning+Java+Full+Stack+Development" alt="Omkar Regade Java Full Stack Typing Animation"/>
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" alt="Animated Java Logo"/>
-</p>
-
-<p align="left">
-  <a href="https://github.com/omkarregade">
-    <img src="https://komarev.com/ghpvc/?username=omkarregade-96&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <a href="https://github.com/omkarregade-96">
+    <img src="https://komarev.com/ghpvc/?username=omkarregade-96&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/omkarregade?tab=followers">
-    <img src="https://img.shields.io/github/followers/omkarregade?label=Followers&style=flat&color=6C63FF" alt="GitHub Followers"/>
+  <a href="https://github.com/omkarregade-96?tab=followers">
+    <img src="https://img.shields.io/github/followers/omkarregade-96?label=Followers&style=flat&color=6C63FF" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/omkarregade?tab=repositories">
-    <img src="https://img.shields.io/github/stars/omkarregade?label=Stars&style=flat&color=FFD700" alt="GitHub Stars"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/omkarregade">
-    <img src="https://img.shields.io/badge/GitHub-omkarregade-181717?style=flat&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://leetcode.com/yc6t2qrdvr/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  <a href="https://github.com/omkarregade-96?tab=repositories">
+    <img src="https://img.shields.io/github/stars/omkarregade-96?label=Stars&style=flat&color=FFD700" alt="GitHub Stars"/>
   </a>
 </p>
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+## 🚀 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Animation"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ5N29vcWNwcjJuZW9ucHoxbmEwN3BieGk2OHYxOGd3eng3dWh3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="420" alt="Coding Animation"/>
 </p>
 
-I am a **B.Com IT student** passionate about software development, backend engineering, and problem-solving. I am currently learning and building my skills in **Java Full Stack Development**, with a focus on **Java, Data Structures & Algorithms, SQL, Spring Boot, and REST APIs**.
+I am a **B.Com IT student** passionate about software development, backend engineering, and problem-solving.
 
-* 🎓 Pursuing B.Com IT
-* ☕ Learning and building with Java
-* 🧠 Practicing DSA and problem-solving
-* 💻 Solving problems on LeetCode and NeetCode
-* 🌱 Exploring Spring Boot and REST API development
-* 🗄️ Learning SQL and database concepts
-* 🔧 Improving Git and GitHub workflows
-* 🚀 Working toward becoming a Java Full Stack Developer
+I am currently learning **Java Full Stack Development**, with a strong focus on **Java, Data Structures & Algorithms, SQL, Spring Boot, and REST APIs**.
+
+- 🎓 Pursuing B.Com IT
+- ☕ Learning and building with Java
+- 🧠 Practicing DSA and problem-solving
+- 💻 Solving problems on LeetCode and NeetCode
+- 🌱 Exploring Spring Boot and REST API development
+- 🗄️ Learning SQL and database concepts
+- 🔧 Improving Git and GitHub workflows
+- 🚀 Working toward becoming a Java Full Stack Developer
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+# 🛠️ Tech Stack
 
-<h3 align="center">☕ Programming, Backend & Database</h3>
+### ☕ Programming, Backend & Database
 
 <p align="center">
   <a href="https://www.java.com/">
@@ -67,7 +59,7 @@ I am a **B.Com IT student** passionate about software development, backend engin
   </a>
 </p>
 
-<h3 align="center">🌐 Frontend</h3>
+### 🌐 Frontend
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -84,7 +76,7 @@ I am a **B.Com IT student** passionate about software development, backend engin
   </a>
 </p>
 
-<h3 align="center">🔧 Tools & Technologies</h3>
+### 🔧 Tools & Technologies
 
 <p align="center">
   <a href="https://git-scm.com/">
@@ -106,7 +98,7 @@ I am a **B.Com IT student** passionate about software development, backend engin
 
 ---
 
-<h2 align="center">🧠 DSA & Problem Solving</h2>
+# 🧠 DSA & Problem Solving
 
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-In%20Progress-orange?style=for-the-badge&logo=leetcode" alt="DSA"/>
@@ -114,47 +106,41 @@ I am a **B.Com IT student** passionate about software development, backend engin
   <img src="https://img.shields.io/badge/Problem%20Solving-Daily-blue?style=for-the-badge" alt="Problem Solving"/>
 </p>
 
-<h3 align="center">📚 Topics I'm Practicing</h3>
+### 📚 Topics I'm Practicing
 
-<p align="center">
-  <code>Arrays</code> •
-  <code>Strings</code> •
-  <code>HashMap</code> •
-  <code>HashSet</code> •
-  <code>Two Pointers</code> •
-  <code>Sliding Window</code> •
-  <code>Binary Search</code> •
-  <code>Linked List</code> •
-  <code>Stack</code> •
-  <code>Queue</code> •
-  <code>Trees</code> •
-  <code>Graphs</code> •
-  <code>Dynamic Programming</code>
-</p>
+`Arrays` • `Strings` • `HashMap` • `HashSet` • `Two Pointers` • `Sliding Window` • `Binary Search` • `Linked List` • `Stack` • `Queue` • `Trees` • `Graphs` • `Dynamic Programming`
 
-<h3 align="center">🔥 Practice Profiles</h3>
+### 🔥 Practice Profiles
 
 <p align="center">
   <a href="https://leetcode.com/yc6t2qrdvr/">
     <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
   </a>
-  <a href="https://github.com/omkarregade-96/neetcode-submissions.git">
+  <a href="https://github.com/omkarregade-96/neetcode-submissions">
     <img src="https://img.shields.io/badge/DSA%20Solutions-View%20Repository-181717?style=for-the-badge&logo=github" alt="DSA Repository"/>
   </a>
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omkarregade-96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarregade-96&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 </p>
 
+---
+
+# 🔥 Contribution Streak
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=omkarregade-96&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
+---
+
+# 📈 Contribution Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarregade-96&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
@@ -162,7 +148,7 @@ I am a **B.Com IT student** passionate about software development, backend engin
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=omkarregade-96&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub Trophies"/>
@@ -170,25 +156,25 @@ I am a **B.Com IT student** passionate about software development, backend engin
 
 ---
 
-<h2 align="center">📌 Featured Projects</h2>
+# 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/omkarregade-96/neetcode-submissions.git">
+  <a href="https://github.com/omkarregade-96/neetcode-submissions">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=omkarregade-96&repo=neetcode-submissions&theme=tokyonight&hide_border=true" alt="NeetCode Submissions"/>
   </a>
 </p>
 
-<h3 align="center">🚀 Projects</h3>
+### 🚀 Projects
 
-| Project                                                                               | Description                                 | Technology                       |
-| ------------------------------------------------------------------------------------- | ------------------------------------------- | -------------------------------- |
-| 🧠 [NeetCode Submissions](https://github.com/omkarregade-96/neetcode-submissions.git) | DSA and LeetCode problem-solving repository | Java • DSA                       |
-| 🚧 Java Backend Project                                                               | Backend application under development       | Java • Spring Boot • REST API    |
-| 🚧 Full Stack Project                                                                 | Full-stack application under development    | Java • Spring Boot • React • SQL |
+| Project | Description | Technology |
+|---|---|---|
+| 🧠 [NeetCode Submissions](https://github.com/omkarregade-96/neetcode-submissions) | DSA and LeetCode problem-solving repository | Java • DSA |
+| 🚧 Java Backend Project | Backend application under development | Java • Spring Boot • REST API |
+| 🚧 Full Stack Project | Full-stack application under development | Java • Spring Boot • React • SQL |
 
 ---
 
-<h2 align="center">📦 Repository Overview</h2>
+# 📦 Repository Overview
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omkarregade-96&theme=tokyonight" alt="Repositories Per Language"/>
@@ -202,36 +188,58 @@ I am a **B.Com IT student** passionate about software development, backend engin
 
 ---
 
-<h2 align="center">🤝 Connect With Me</h2>
+# 🎯 Goals
+
+- [ ] Master Core Java
+- [ ] Strengthen DSA fundamentals
+- [ ] Solve 150+ DSA problems
+- [ ] Learn Spring Boot deeply
+- [ ] Build production-style REST APIs
+- [ ] Improve SQL and database skills
+- [ ] Build 2–3 strong Java projects
+- [ ] Contribute to Open Source
+- [ ] Maintain consistent GitHub contributions
+- [ ] Prepare for Java Full Stack interviews
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/omkarregade">
+
+  <a href="https://github.com/omkarregade-96">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
+
   <a href="https://leetcode.com/yc6t2qrdvr/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
+
   <a href="https://twitter.com/omkarregade">
-    <img src="https://img.shields.io/twitter/follow/omkarregade?logo=twitter&style=for-the-badge" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
+
   <a href="https://linkedin.com/in/omkarregade96">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="https://instagram.com/omkar_regade">
     <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+
   <a href="https://discord.gg/FjtrVBEtC">
     <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+
 </p>
 
 <p align="center">
-  📫 Reach me at <strong>[omkarregade.dev@gmail.com](mailto:omkarregade.dev@gmail.com)</strong>
+  📫 <strong>omkarregade.dev@gmail.com</strong>
 </p>
 
 ---
 
-<h2 align="center">💡 Developer Mindset</h2>
+# 💡 Developer Mindset
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Practice+%E2%86%92+Build;Break+%E2%86%92+Debug+%E2%86%92+Improve;Keep+Learning.+Keep+Building" alt="Developer Mindset"/>
@@ -240,3 +248,4 @@ I am a **B.Com IT student** passionate about software development, backend engin
 <p align="center">
   ⭐ Thanks for visiting my profile! ⭐
 </p>
+```
