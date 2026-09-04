@@ -1,308 +1,224 @@
-# 👋 Hi, I'm Uday Sharma
+# 👋 Hi, I'm Omkar Regade
 
-<h3 align="center">
-B.Com IT Student • Aspiring Java Full Stack Developer • DSA Enthusiast
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=B.Com+IT+Student;Aspiring+Java+Full+Stack+Developer;DSA+%26+Problem+Solving+Enthusiast;Building+Projects+and+Learning+Every+Day" alt="Typing Animation"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/udaysharmadev">
-    <img src="https://komarev.com/ghpvc/?username=udaysharmadev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=udaysharmadev&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
   </a>
   <a href="https://github.com/udaysharmadev?tab=followers">
-    <img src="https://img.shields.io/github/followers/udaysharmadev?label=Followers&style=flat" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/udaysharmadev?label=Followers&style=for-the-badge&color=6C63FF" alt="GitHub Followers"/>
   </a>
   <a href="https://github.com/udaysharmadev?tab=repositories">
-    <img src="https://img.shields.io/github/stars/udaysharmadev?label=Stars&style=flat" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/udaysharmadev?label=Stars&style=for-the-badge&color=FFD700" alt="GitHub Stars"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/udaysharmadev">
+    <img src="https://img.shields.io/badge/GitHub-udaysharmadev-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/yc6t2qrdvr/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-* 🎓 B.Com IT Student
-* ☕ Currently focusing on **Java**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 💻 Solving problems on **LeetCode & NeetCode**
-* 🗄️ Learning **SQL & Database Concepts**
-* 🌱 Exploring **Spring Boot & REST APIs**
-* 🔧 Improving my **Git & GitHub workflow**
-* 🎯 Goal: Become a strong **Java Full Stack Developer**
-* 📈 Building projects and consistently improving my problem-solving skills
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Animation"/>
+</p>
+
+I am a **B.Com IT student** passionate about software development, backend engineering, and problem-solving. I am currently focused on building a strong foundation in **Java, Data Structures & Algorithms, SQL, Spring Boot, and REST APIs**.
+
+* 🎓 Pursuing B.Com IT
+* ☕ Learning and building with Java
+* 🧠 Practicing DSA and competitive problem-solving
+* 💻 Solving problems on LeetCode and NeetCode
+* 🌱 Exploring Spring Boot and REST API development
+* 🗄️ Learning SQL and database concepts
+* 🔧 Improving Git and GitHub workflows
+* 🚀 Building projects to become a Java Full Stack Developer
 
 ---
 
-## 🧑‍💻 Current Focus
+<h2 align="center">🛠️ Tech Stack</h2>
 
-```text
-Java
- ├── Core Java
- ├── OOP
- ├── Collections
- ├── Exception Handling
- └── Advanced Java
+<h3 align="center">☕ Programming, Backend & Database</h3>
 
-DSA
- ├── Arrays
- ├── Strings
- ├── Hashing
- ├── Linked List
- ├── Stack & Queue
- ├── Trees
- ├── Graphs
- └── Dynamic Programming
-
-Backend
- ├── SQL
- ├── Spring
- ├── Spring Boot
- ├── REST APIs
- └── Database Integration
-
-Development
- ├── Git
- ├── GitHub
- ├── HTML
- ├── CSS
- └── JavaScript
-```
-
----
-
-# 🛠️ Languages & Tools
-
-### ☕ Programming & Backend
-
-<p align="left">
-<a href="https://www.java.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-</a>
-<a href="https://spring.io/projects/spring-boot">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
-</a>
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
-</a>
-<a href="https://git-scm.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-</a>
-<a href="https://github.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-</a>
+<p align="center">
+  <a href="https://www.java.com/">
+    <img src="https://skillicons.dev/icons?i=java" width="60" alt="Java"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://skillicons.dev/icons?i=spring" width="60" alt="Spring Boot"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" width="60" alt="MySQL"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgres" width="60" alt="PostgreSQL"/>
+  </a>
 </p>
 
-### 🌐 Frontend
+<h3 align="center">🌐 Frontend</h3>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-</a>
-<a href="https://react.dev/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-</a>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS3"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" width="60" alt="JavaScript"/>
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" width="60" alt="React"/>
+  </a>
 </p>
 
-### 🔧 Other Technologies
+<h3 align="center">🔧 Tools & Technologies</h3>
 
-<p align="left">
-<a href="https://www.linux.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-</a>
-<a href="https://aws.amazon.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="45" alt="AWS"/>
-</a>
-<a href="https://kafka.apache.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="45" height="45" alt="Apache Kafka"/>
-</a>
+<p align="center">
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" width="60" alt="Git"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub"/>
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://skillicons.dev/icons?i=linux" width="60" alt="Linux"/>
+  </a>
+  <a href="https://aws.amazon.com/">
+    <img src="https://skillicons.dev/icons?i=aws" width="60" alt="AWS"/>
+  </a>
+  <a href="https://kafka.apache.org/">
+    <img src="https://skillicons.dev/icons?i=kafka" width="60" alt="Apache Kafka"/>
+  </a>
 </p>
 
 ---
 
-# 🧠 DSA & Problem Solving
-
-### My Practice
+<h2 align="center">🧠 DSA & Problem Solving</h2>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/DSA-In%20Progress-orange?style=for-the-badge&logo=leetcode"/>
-
-<img src="https://img.shields.io/badge/Java-Primary%20Language-red?style=for-the-badge&logo=openjdk"/>
-
-<img src="https://img.shields.io/badge/Problem%20Solving-Daily-blue?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/DSA-In%20Progress-orange?style=for-the-badge&logo=leetcode" alt="DSA"/>
+  <img src="https://img.shields.io/badge/Java-Primary%20Language-red?style=for-the-badge&logo=openjdk" alt="Java"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-Daily-blue?style=for-the-badge" alt="Problem Solving"/>
 </p>
 
-### 📚 Topics I'm Working On
-
-`Arrays` • `Strings` • `HashMap` • `HashSet` • `Two Pointers` • `Sliding Window` • `Binary Search` • `Linked List` • `Stack` • `Queue` • `Trees` • `Graphs` • `Dynamic Programming`
-
-### 🔥 LeetCode Practice
+<h3 align="center">📚 Topics I'm Practicing</h3>
 
 <p align="center">
-
-<a href="https://leetcode.com/yc6t2qrdvr/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
-</a>
-
-<a href="https://github.com/udaysharmadev/neetcode-submissions">
-<img src="https://img.shields.io/badge/DSA%20Solutions-GitHub-black?style=for-the-badge&logo=github" alt="DSA Repository"/>
-</a>
-
+  <code>Arrays</code> •
+  <code>Strings</code> •
+  <code>HashMap</code> •
+  <code>HashSet</code> •
+  <code>Two Pointers</code> •
+  <code>Sliding Window</code> •
+  <code>Binary Search</code> •
+  <code>Linked List</code> •
+  <code>Stack</code> •
+  <code>Queue</code> •
+  <code>Trees</code> •
+  <code>Graphs</code> •
+  <code>Dynamic Programming</code>
 </p>
 
----
-
-# 📊 GitHub Analytics
+<h3 align="center">🔥 Practice Profiles</h3>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=udaysharmadev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysharmadev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
+  <a href="https://leetcode.com/yc6t2qrdvr/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
+  </a>
+  <a href="https://github.com/udaysharmadev/neetcode-submissions">
+    <img src="https://img.shields.io/badge/DSA%20Solutions-View%20Repository-181717?style=for-the-badge&logo=github" alt="DSA Repository"/>
+  </a>
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=udaysharmadev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysharmadev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=udaysharmadev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=udaysharmadev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaysharmadev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
 </p>
 
 ---
 
-# 📈 Contribution Activity
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=udaysharmadev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=udaysharmadev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+<h2 align="center">📌 Featured Projects</h2>
 
 <p align="center">
+  <a href="https://github.com/udaysharmadev/neetcode-submissions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=neetcode-submissions&theme=tokyonight&hide_border=true" alt="NeetCode Submissions"/>
+  </a>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=udaysharmadev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub Trophies"/>
+<h3 align="center">🚀 Projects</h3>
 
+| Project                                                                          | Description                                 | Technology                       |
+| -------------------------------------------------------------------------------- | ------------------------------------------- | -------------------------------- |
+| 🧠 [NeetCode Submissions](https://github.com/udaysharmadev/neetcode-submissions) | DSA and LeetCode problem-solving repository | Java • DSA                       |
+| 🚧 Java Backend Project                                                          | Backend application under development       | Java • Spring Boot • REST API    |
+| 🚧 Full Stack Project                                                            | Full-stack application under development    | Java • Spring Boot • React • SQL |
+
+---
+
+<h2 align="center">📦 Repository Overview</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=udaysharmadev&theme=tokyonight" alt="Repositories Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=udaysharmadev&theme=tokyonight" alt="Most Used Language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=udaysharmadev&theme=tokyonight" alt="GitHub Statistics"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=udaysharmadev&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
 </p>
 
 ---
 
-# 📌 Featured Projects
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-
-<a href="https://github.com/udaysharmadev/neetcode-submissions">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=neetcode-submissions&theme=tokyonight&hide_border=true" alt="NeetCode Submissions"/>
-</a>
-
-<a href="https://github.com/udaysharmadev">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=YOUR-PROJECT-REPO&theme=tokyonight&hide_border=true" alt="Featured Project"/>
-</a>
-
-</p>
-
-### 🚀 Projects
-
-| Project                     | Description                               | Technology                       |
-| --------------------------- | ----------------------------------------- | -------------------------------- |
-| 🧠 **NeetCode Submissions** | DSA & LeetCode problem-solving repository | Java • DSA                       |
-| 🚧 **Java Backend Project** | Spring Boot backend project               | Java • Spring Boot • REST API    |
-| 🚧 **Full Stack Project**   | Full-stack application                    | Java • Spring Boot • React • SQL |
-
-> Replace the 🚧 projects above with your actual repositories as you build them.
-
----
-
-# 📦 GitHub Repository Overview
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=udaysharmadev&theme=tokyonight" alt="Repos Per Language"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=udaysharmadev&theme=tokyonight" alt="Most Commit Language"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=udaysharmadev&theme=tokyonight" alt="GitHub Stats"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=udaysharmadev&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-
+  <a href="https://github.com/udaysharmadev">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/yc6t2qrdvr/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
 </p>
 
 ---
 
-# 📅 My GitHub Activity
+<h2 align="center">💡 Developer Mindset</h2>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=udaysharmadev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
-
-</p>
-
----
-
-# 🎯 2026 Goals
-
-* [ ] Master Core Java
-* [ ] Strengthen DSA fundamentals
-* [ ] Solve 150+ DSA problems
-* [ ] Learn Spring Boot deeply
-* [ ] Build production-style REST APIs
-* [ ] Improve SQL & database skills
-* [ ] Build 2–3 strong Java projects
-* [ ] Contribute to Open Source
-* [ ] Maintain consistent GitHub contributions
-* [ ] Prepare for Java Full Stack interviews
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/omkarregade96">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-
-<a href="https://leetcode.com/yc6t2qrdvr/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
-</a>
-
-<a href="mailto:omkarregade.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
-</a>
-
-<a href="https://github.com/udaysharmadev">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-</p>
-
----
-
-# 💡 Developer Mindset
-
-<p align="center">
-
-**Learn → Practice → Build → Break → Debug → Improve → Repeat**
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Practice+%E2%86%92+Build;Break+%E2%86%92+Debug+%E2%86%92+Improve;Keep+Learning.+Keep+Building" alt="Developer Mindset"/>
 </p>
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+  ⭐ Thanks for visiting my profile! ⭐
 </p>
