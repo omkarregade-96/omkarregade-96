@@ -1,27 +1,31 @@
 # 👋 Hi, I'm Omkar Regade
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=B.Com+IT+Student;Aspiring+Java+Full+Stack+Developer;DSA+%26+Problem+Solving+Enthusiast;Building+Projects+and+Learning+Every+Day" alt="Typing Animation"/>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&vCenter=true&width=520&lines=Omkar+Regade;I+am+learning+Java+Full+Stack+Development" alt="Omkar Regade Java Full Stack Typing Animation"/>
 </p>
 
-<p align="center">
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" alt="Animated Java Logo"/>
+</p>
+
+<p align="left">
   <a href="https://github.com/udaysharmadev">
-    <img src="https://komarev.com/ghpvc/?username=udaysharmadev&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=udaysharmadev&label=Profile%20Views&color=00D9FF&style=flat" alt="Profile Views"/>
   </a>
   <a href="https://github.com/udaysharmadev?tab=followers">
-    <img src="https://img.shields.io/github/followers/udaysharmadev?label=Followers&style=for-the-badge&color=6C63FF" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/udaysharmadev?label=Followers&style=flat&color=6C63FF" alt="GitHub Followers"/>
   </a>
   <a href="https://github.com/udaysharmadev?tab=repositories">
-    <img src="https://img.shields.io/github/stars/udaysharmadev?label=Stars&style=for-the-badge&color=FFD700" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/udaysharmadev?label=Stars&style=flat&color=FFD700" alt="GitHub Stars"/>
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/udaysharmadev">
-    <img src="https://img.shields.io/badge/GitHub-udaysharmadev-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-udaysharmadev-181717?style=flat&logo=github" alt="GitHub"/>
   </a>
   <a href="https://leetcode.com/yc6t2qrdvr/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
 
@@ -33,16 +37,16 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Animation"/>
 </p>
 
-I am a **B.Com IT student** passionate about software development, backend engineering, and problem-solving. I am currently focused on building a strong foundation in **Java, Data Structures & Algorithms, SQL, Spring Boot, and REST APIs**.
+I am a **B.Com IT student** passionate about software development, backend engineering, and problem-solving. I am currently learning and building my skills in **Java Full Stack Development**, with a focus on **Java, Data Structures & Algorithms, SQL, Spring Boot, and REST APIs**.
 
 * 🎓 Pursuing B.Com IT
 * ☕ Learning and building with Java
-* 🧠 Practicing DSA and competitive problem-solving
+* 🧠 Practicing DSA and problem-solving
 * 💻 Solving problems on LeetCode and NeetCode
 * 🌱 Exploring Spring Boot and REST API development
 * 🗄️ Learning SQL and database concepts
 * 🔧 Improving Git and GitHub workflows
-* 🚀 Building projects to become a Java Full Stack Developer
+* 🚀 Working toward becoming a Java Full Stack Developer
 
 ---
 
