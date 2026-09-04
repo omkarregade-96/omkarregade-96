@@ -9,20 +9,20 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/udaysharmadev">
-    <img src="https://komarev.com/ghpvc/?username=udaysharmadev&label=Profile%20Views&color=00D9FF&style=flat" alt="Profile Views"/>
+  <a href="https://github.com/omkarregade">
+    <img src="https://komarev.com/ghpvc/?username=omkarregade-96&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/udaysharmadev?tab=followers">
-    <img src="https://img.shields.io/github/followers/udaysharmadev?label=Followers&style=flat&color=6C63FF" alt="GitHub Followers"/>
+  <a href="https://github.com/omkarregade?tab=followers">
+    <img src="https://img.shields.io/github/followers/omkarregade?label=Followers&style=flat&color=6C63FF" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/udaysharmadev?tab=repositories">
-    <img src="https://img.shields.io/github/stars/udaysharmadev?label=Stars&style=flat&color=FFD700" alt="GitHub Stars"/>
+  <a href="https://github.com/omkarregade?tab=repositories">
+    <img src="https://img.shields.io/github/stars/omkarregade?label=Stars&style=flat&color=FFD700" alt="GitHub Stars"/>
   </a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/udaysharmadev">
-    <img src="https://img.shields.io/badge/GitHub-udaysharmadev-181717?style=flat&logo=github" alt="GitHub"/>
+  <a href="https://github.com/omkarregade">
+    <img src="https://img.shields.io/badge/GitHub-omkarregade-181717?style=flat&logo=github" alt="GitHub"/>
   </a>
   <a href="https://leetcode.com/yc6t2qrdvr/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/>
@@ -140,7 +140,7 @@ I am a **B.Com IT student** passionate about software development, backend engin
   <a href="https://leetcode.com/yc6t2qrdvr/">
     <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
   </a>
-  <a href="https://github.com/udaysharmadev/neetcode-submissions">
+  <a href="https://github.com/omkarregade-96/neetcode-submissions.git">
     <img src="https://img.shields.io/badge/DSA%20Solutions-View%20Repository-181717?style=for-the-badge&logo=github" alt="DSA Repository"/>
   </a>
 </p>
@@ -150,16 +150,16 @@ I am a **B.Com IT student** passionate about software development, backend engin
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udaysharmadev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysharmadev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omkarregade-96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarregade-96&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=udaysharmadev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=omkarregade-96&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaysharmadev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarregade-96&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
 </p>
 
 ---
@@ -167,7 +167,7 @@ I am a **B.Com IT student** passionate about software development, backend engin
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=udaysharmadev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=omkarregade-96&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -175,31 +175,31 @@ I am a **B.Com IT student** passionate about software development, backend engin
 <h2 align="center">📌 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/udaysharmadev/neetcode-submissions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=neetcode-submissions&theme=tokyonight&hide_border=true" alt="NeetCode Submissions"/>
+  <a href="https://github.com/omkarregade-96/neetcode-submissions.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omkarregade-96&repo=neetcode-submissions&theme=tokyonight&hide_border=true" alt="NeetCode Submissions"/>
   </a>
 </p>
 
 <h3 align="center">🚀 Projects</h3>
 
-| Project                                                                          | Description                                 | Technology                       |
-| -------------------------------------------------------------------------------- | ------------------------------------------- | -------------------------------- |
-| 🧠 [NeetCode Submissions](https://github.com/udaysharmadev/neetcode-submissions) | DSA and LeetCode problem-solving repository | Java • DSA                       |
-| 🚧 Java Backend Project                                                          | Backend application under development       | Java • Spring Boot • REST API    |
-| 🚧 Full Stack Project                                                            | Full-stack application under development    | Java • Spring Boot • React • SQL |
+| Project                                                                               | Description                                 | Technology                       |
+| ------------------------------------------------------------------------------------- | ------------------------------------------- | -------------------------------- |
+| 🧠 [NeetCode Submissions](https://github.com/omkarregade-96/neetcode-submissions.git) | DSA and LeetCode problem-solving repository | Java • DSA                       |
+| 🚧 Java Backend Project                                                               | Backend application under development       | Java • Spring Boot • REST API    |
+| 🚧 Full Stack Project                                                                 | Full-stack application under development    | Java • Spring Boot • React • SQL |
 
 ---
 
 <h2 align="center">📦 Repository Overview</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=udaysharmadev&theme=tokyonight" alt="Repositories Per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=udaysharmadev&theme=tokyonight" alt="Most Used Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omkarregade-96&theme=tokyonight" alt="Repositories Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omkarregade-96&theme=tokyonight" alt="Most Used Language"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=udaysharmadev&theme=tokyonight" alt="GitHub Statistics"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=udaysharmadev&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omkarregade-96&theme=tokyonight" alt="GitHub Statistics"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omkarregade-96&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
 </p>
 
 ---
@@ -207,12 +207,28 @@ I am a **B.Com IT student** passionate about software development, backend engin
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://github.com/udaysharmadev">
+  <a href="https://github.com/omkarregade">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://leetcode.com/yc6t2qrdvr/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
+  <a href="https://twitter.com/omkarregade">
+    <img src="https://img.shields.io/twitter/follow/omkarregade?logo=twitter&style=for-the-badge" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/omkarregade96">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/omkar_regade">
+    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://discord.gg/FjtrVBEtC">
+    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+<p align="center">
+  📫 Reach me at <strong>[omkarregade.dev@gmail.com](mailto:omkarregade.dev@gmail.com)</strong>
 </p>
 
 ---
