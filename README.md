@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/omkarregade">
+  <a href="https://github.com/omkarregade-96">
     <img src="https://komarev.com/ghpvc/?username=omkarregade-96&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
   <a href="https://github.com/omkarregade?tab=followers">
