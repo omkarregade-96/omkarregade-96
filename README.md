@@ -103,23 +103,6 @@ I am a **B.Com IT student** passionate about software development, backend engin
     <img src="https://skillicons.dev/icons?i=kafka" width="30" alt="Apache Kafka"/>
   </a>
 </p>
-<h3 align="center">📚 Topics I'm Practicing</h3>
-
-<p align="center">
-  <code>Arrays</code> •
-  <code>Strings</code> •
-  <code>HashMap</code> •
-  <code>HashSet</code> •
-  <code>Two Pointers</code> •
-  <code>Sliding Window</code> •
-  <code>Binary Search</code> •
-  <code>Linked List</code> •
-  <code>Stack</code> •
-  <code>Queue</code> •
-  <code>Trees</code> •
-  <code>Graphs</code> •
-  <code>Dynamic Programming</code>
-</p>
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
