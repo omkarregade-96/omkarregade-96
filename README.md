@@ -113,13 +113,13 @@ my skills in <strong>Java Full Stack Development</strong>, with a focus on
 
 ---
 
-<h2 align="center">💻 LeetCode Journey</h2>
+<h2 align="left">💻 LeetCode Journey</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://leetcode.com/yc6t2qrdvr/">
     <img src="https://leetcard.jacoblin.cool/yc6t2qrdvr?theme=dark&font=baloo&ext=heatmap"
          alt="LeetCode Stats"
-         width="330"/>
+         width="420"/>
   </a>
 
 
