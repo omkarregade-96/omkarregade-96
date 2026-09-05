@@ -12,17 +12,17 @@
   <a href="https://github.com/omkarregade-96">
     <img src="https://komarev.com/ghpvc/?username=omkarregade-96&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/omkarregade?tab=followers">
+  <a href="https://github.com/omkarregade-96?tab=followers">
     <img src="https://img.shields.io/github/followers/omkarregade?label=Followers&style=flat&color=6C63FF" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/omkarregade?tab=repositories">
-    <img src="https://img.shields.io/github/stars/omkarregade?label=Stars&style=flat&color=FFD700" alt="GitHub Stars"/>
+  <a href="https://github.com/omkarregade-96?tab=repositories">
+    <img src="https://img.shields.io/github/stars/omkarregade-96?label=Stars&style=flat&color=FFD700" alt="GitHub Stars"/>
   </a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/omkarregade">
-    <img src="https://img.shields.io/badge/GitHub-omkarregade-181717?style=flat&logo=github" alt="GitHub"/>
+  <a href="https://github.com/omkarregade-96">
+    <img src="https://img.shields.io/badge/GitHub-omkarregade-96-181717?style=flat&logo=github" alt="GitHub"/>
   </a>
   <a href="https://leetcode.com/yc6t2qrdvr/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/>
