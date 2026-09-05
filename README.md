@@ -5,7 +5,7 @@
 
 <td width="60%" valign="top">
 
-<h2 align="center">🚀 About Me</h2>
+<h4 align="center">🚀 About Me</h4>
 
 <p align="left">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ5N29vcWNwcjJuZW9ucHoxbmEwN3BieGk2OHYxOGd3eng3dWh3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"
