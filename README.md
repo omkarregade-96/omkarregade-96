@@ -128,6 +128,9 @@ my skills in <strong>Java Full Stack Development</strong>, with a focus on
     <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
          alt="LeetCode Profile"/>
   </a>
-</p>
+</p<a href="https://neetcode.io/user/PixelWarden96">
+    <img src="https://img.shields.io/badge/NeetCode-Profile-000000?style=for-the-badge&logo=neetcode&logoColor=white"
+         alt="NeetCode Profile"/>
+</a>
 
 ---
