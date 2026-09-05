@@ -126,9 +126,9 @@ my skills in <strong>Java Full Stack Development</strong>, with a focus on
 
 ---
 
-<h2 align="left">🧠 NeetCode Journey</h2>
+<h2 align="right">🧠 NeetCode Journey</h2>
 
-<p align="left">
+<p align="right">
   <a href="https://neetcode.io/user/PixelWarden96">
     <img src="https://img.shields.io/badge/NeetCode-View%20Profile-000000?style=flat&logo=neetcode&logoColor=white"
          alt="NeetCode Profile"
@@ -136,7 +136,7 @@ my skills in <strong>Java Full Stack Development</strong>, with a focus on
   </a>
 </p>
 
-<p align="left">
+<p align="right">
   <strong>🚀 DSA Practice & Problem Solving</strong><br>
   Practicing Data Structures & Algorithms through the NeetCode roadmap.
 </p>
