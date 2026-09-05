@@ -54,16 +54,16 @@ I am a **B.Com IT student** passionate about software development, backend engin
 
 <p align="center">
   <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java" width="60" alt="Java"/>
+    <img src="https://skillicons.dev/icons?i=java" width="30" alt="Java"/>
   </a>
   <a href="https://spring.io/projects/spring-boot">
-    <img src="https://skillicons.dev/icons?i=spring" width="60" alt="Spring Boot"/>
+    <img src="https://skillicons.dev/icons?i=spring" width="30" alt="Spring Boot"/>
   </a>
   <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" width="60" alt="MySQL"/>
+    <img src="https://skillicons.dev/icons?i=mysql" width="30" alt="MySQL"/>
   </a>
   <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgres" width="60" alt="PostgreSQL"/>
+    <img src="https://skillicons.dev/icons?i=postgres" width="30" alt="PostgreSQL"/>
   </a>
 </p>
 
@@ -71,16 +71,16 @@ I am a **B.Com IT student** passionate about software development, backend engin
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML5"/>
+    <img src="https://skillicons.dev/icons?i=html" width="30" alt="HTML5"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS3"/>
+    <img src="https://skillicons.dev/icons?i=css" width="30" alt="CSS3"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=javascript" width="60" alt="JavaScript"/>
+    <img src="https://skillicons.dev/icons?i=javascript" width="30" alt="JavaScript"/>
   </a>
   <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" width="60" alt="React"/>
+    <img src="https://skillicons.dev/icons?i=react" width="30" alt="React"/>
   </a>
 </p>
 
@@ -88,19 +88,19 @@ I am a **B.Com IT student** passionate about software development, backend engin
 
 <p align="center">
   <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" width="60" alt="Git"/>
+    <img src="https://skillicons.dev/icons?i=git" width="30" alt="Git"/>
   </a>
   <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" width="30" alt="GitHub"/>
   </a>
   <a href="https://www.linux.org/">
-    <img src="https://skillicons.dev/icons?i=linux" width="60" alt="Linux"/>
+    <img src="https://skillicons.dev/icons?i=linux" width="30" alt="Linux"/>
   </a>
   <a href="https://aws.amazon.com/">
-    <img src="https://skillicons.dev/icons?i=aws" width="60" alt="AWS"/>
+    <img src="https://skillicons.dev/icons?i=aws" width="30" alt="AWS"/>
   </a>
   <a href="https://kafka.apache.org/">
-    <img src="https://skillicons.dev/icons?i=kafka" width="60" alt="Apache Kafka"/>
+    <img src="https://skillicons.dev/icons?i=kafka" width="30" alt="Apache Kafka"/>
   </a>
 </p>
 
