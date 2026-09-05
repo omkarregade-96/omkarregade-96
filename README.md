@@ -103,17 +103,6 @@ I am a **B.Com IT student** passionate about software development, backend engin
     <img src="https://skillicons.dev/icons?i=kafka" width="30" alt="Apache Kafka"/>
   </a>
 </p>
-
----
-
-<h2 align="center">🧠 DSA & Problem Solving</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DSA-In%20Progress-orange?style=for-the-badge&logo=leetcode" alt="DSA"/>
-  <img src="https://img.shields.io/badge/Java-Primary%20Language-red?style=for-the-badge&logo=openjdk" alt="Java"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-Daily-blue?style=for-the-badge" alt="Problem Solving"/>
-</p>
-
 <h3 align="center">📚 Topics I'm Practicing</h3>
 
 <p align="center">
