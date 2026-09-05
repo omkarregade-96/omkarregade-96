@@ -34,7 +34,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ5N29vcWNwcjJuZW9ucHoxbmEwN3BieGk2OHYxOGd3eng3dWh3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="420" alt="Coding Animation"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ5N29vcWNwcjJuZW9ucHoxbmEwN3BieGk2OHYxOGd3eng3dWh3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="40" alt="Coding Animation"/>
 </p>
 
 I am a **B.Com IT student** passionate about software development, backend engineering, and problem-solving. I am currently learning and building my skills in **Java Full Stack Development**, with a focus on **Java, Data Structures & Algorithms, SQL, Spring Boot, and REST APIs**.
