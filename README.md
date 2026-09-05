@@ -2,7 +2,7 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&vCenter=true&width=520&lines=Omkar Regade"/>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&vCenter=true&width=520&lines=Omkar+Regade;I+am+learning+Java+Full+Stack+Development" alt="Omkar Regade Java Full Stack Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&vCenter=true&width=520&lines=Omkar+Regade;I+am+learning+Java+Full+Stack+Development" alt="Omkar Regade Java Full Stack Typing Animation"/>
 </p>
 
 <p align="left">
