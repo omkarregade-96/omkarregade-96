@@ -207,7 +207,7 @@ I am a **B.Com IT student** passionate about software development, backend engin
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://github.com/omkarregade">
+  <a href="https://github.com/omkarregade-96">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://leetcode.com/yc6t2qrdvr/">
