@@ -143,25 +143,6 @@ I am a **B.Com IT student** passionate about software development, backend engin
   </a>
 </p>
 
----
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkarregade-96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarregade-96&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=omkarregade-96&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarregade-96&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
-</p>
-
----
-
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
