@@ -84,9 +84,9 @@ I am a **B.Com IT student** passionate about software development, backend engin
   </a>
 </p>
 
-<h3 align="center">🔧 Tools & Technologies</h3>
+<h3 align="right">🔧 Tools & Technologies</h3>
 
-<p align="center">
+<p align="right">
   <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git" width="30" alt="Git"/>
   </a>
