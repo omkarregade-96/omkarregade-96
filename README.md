@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Omkar Regade
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=FF8C00&vCenter=true&width=520&lines=Omkar+Regade;I+am+learning+Java+Full+Stack+Development"
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=54&pause=1000&color=FF8C00&vCenter=true&width=1200&lines=Omkar+Regade;I+am+learning+Java+Full+Stack+Development"
        alt="Omkar Regade Java Full Stack Typing Animation"/>
 </p>
 <p align="left">
