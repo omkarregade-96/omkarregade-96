@@ -35,9 +35,9 @@ my skills in <strong>Java Full Stack Development</strong>, with a focus on
 
 <td width="40%" valign="top">
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h4 align="center">🛠️ Tech Stack</h4>
 
-<h3 align="center">☕ Programming, Backend & Database</h3>
+<h4 align="center">☕ Programming, Backend & Database</h4>
 
 <p align="center">
   <a href="https://www.java.com/">
@@ -54,7 +54,7 @@ my skills in <strong>Java Full Stack Development</strong>, with a focus on
   </a>
 </p>
 
-<h3 align="center">🌐 Frontend</h3>
+<h4 align="center">🌐 Frontend</h4>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -71,7 +71,7 @@ my skills in <strong>Java Full Stack Development</strong>, with a focus on
   </a>
 </p>
 
-<h3 align="center">🔧 Tools & Technologies</h3>
+<h4 align="center">🔧 Tools & Technologies</h4>
 
 <p align="center">
   <a href="https://git-scm.com/">
@@ -91,7 +91,7 @@ my skills in <strong>Java Full Stack Development</strong>, with a focus on
   </a>
 </p>
 
-<h3 align="center">🧠 DSA Practice</h3>
+<h4 align="center">🧠 DSA Practice</h4>
 
 <p align="center">
   <a href="https://leetcode.com/yc6t2qrdvr/">
@@ -114,7 +114,7 @@ my skills in <strong>Java Full Stack Development</strong>, with a focus on
 
 ---
 
-<h2 align="left">💻 LeetCode Journey</h2>
+<h4 align="left">💻 LeetCode Journey</h4>
 
 <p align="left">
   <a href="https://leetcode.com/yc6t2qrdvr/">
@@ -126,13 +126,13 @@ my skills in <strong>Java Full Stack Development</strong>, with a focus on
 
 ---
 
-<h2 align="right">🧠 NeetCode Journey</h2>
+<h4 align="right">🧠 NeetCode Journey</h4>
 
 <p align="right">
   <a href="https://neetcode.io/user/PixelWarden96">
     <img src="https://img.shields.io/badge/NeetCode-View%20Profile-000000?style=flat&logo=neetcode&logoColor=white"
          alt="NeetCode Profile"
-         width="180"/>
+         width="100"/>
   </a>
 </p>
 
