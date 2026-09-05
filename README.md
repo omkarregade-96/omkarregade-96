@@ -119,26 +119,9 @@ my skills in <strong>Java Full Stack Development</strong>, with a focus on
   <a href="https://leetcode.com/yc6t2qrdvr/">
     <img src="https://leetcard.jacoblin.cool/yc6t2qrdvr?theme=dark&font=baloo&ext=heatmap"
          alt="LeetCode Stats"
-         width="500"/>
+         width="330"/>
   </a>
-</p>
 
-<p align="center">
-  <a href="https://leetcode.com/yc6t2qrdvr/">
-    <img src="https://leetcard.jacoblin.cool/yc6t2qrdvr?theme=dark&font=baloo&ext=heatmap"
-         alt="LeetCode Stats"
-         width="500"/>
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://leetcode.com/yc6t2qrdvr/">
-    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
-         alt="LeetCode Profile"/>
-  </a>
-  <a href="https://neetcode.io/user/PixelWarden96">
-    <img src="https://img.shields.io/badge/NeetCode-View%20Profile-000000?style=for-the-badge&logo=neetcode&logoColor=white"
-         alt="NeetCode Profile"/>
-  </a>
-</p>
----
+
+
