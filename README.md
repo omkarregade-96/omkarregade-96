@@ -50,9 +50,9 @@ I am a **B.Com IT student** passionate about software development, backend engin
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<h3 align="center">☕ Programming, Backend & Database</h3>
+<h3 align="left">☕ Programming, Backend & Database</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://www.java.com/">
     <img src="https://skillicons.dev/icons?i=java" width="30" alt="Java"/>
   </a>
