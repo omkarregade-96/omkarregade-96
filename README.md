@@ -1,69 +1,56 @@
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=54&pause=1000&color=FF8C00&vCenter=true&width=1200&lines=Omkar+Regade;I+am+learning+Java+Full+Stack+Development"
-       alt="Omkar Regade Java Full Stack Typing Animation"/>
-</p>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" alt="Animated Java Logo"/>
-</p>
-
-<p align="left">
-  <a href="https://github.com/omkarregade-96">
-    <img src="https://komarev.com/ghpvc/?username=omkarregade-96&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/omkarregade-96?tab=followers">
-    <img src="https://img.shields.io/github/followers/omkarregade?label=Followers&style=flat&color=6C63FF" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/omkarregade-96?tab=repositories">
-    <img src="https://img.shields.io/github/stars/omkarregade-96?label=Stars&style=flat&color=FFD700" alt="GitHub Stars"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/omkarregade-96">
-    <img src="https://img.shields.io/badge/GitHub-omkarregade-96-181717?style=flat&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://leetcode.com/yc6t2qrdvr/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-</p>
-
 ---
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
 
 <h2 align="center">🚀 About Me</h2>
 
 <p align="left">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ5N29vcWNwcjJuZW9ucHoxbmEwN3BieGk2OHYxOGd3eng3dWh3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="55" alt="Coding Animation"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ5N29vcWNwcjJuZW9ucHoxbmEwN3BieGk2OHYxOGd3eng3dWh3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"
+       width="55"
+       alt="Coding Animation"/>
 </p>
 
-I am a **B.Com IT student** passionate about software development, backend engineering, and problem-solving. I am currently learning and building my skills in **Java Full Stack Development**, with a focus on **Java, Data Structures & Algorithms, SQL, Spring Boot, and REST APIs**.
+<p>
+I am a <strong>B.Com IT student</strong> passionate about software development,
+backend engineering, and problem-solving. I am currently learning and building
+my skills in <strong>Java Full Stack Development</strong>, with a focus on
+<strong>Java, Data Structures & Algorithms, SQL, Spring Boot, and REST APIs</strong>.
+</p>
 
-* 🎓 Pursuing B.Com IT
-* ☕ Learning and building with Java
-* 🧠 Practicing DSA and problem-solving
-* 💻 Solving problems on LeetCode and NeetCode
-* 🌱 Exploring Spring Boot and REST API development
-* 🗄️ Learning SQL and database concepts
-* 🔧 Improving Git and GitHub workflows
-* 🚀 Working toward becoming a Java Full Stack Developer
+<ul>
+  <li>🎓 Pursuing B.Com IT</li>
+  <li>☕ Learning and building with Java</li>
+  <li>🧠 Practicing DSA and problem-solving</li>
+  <li>💻 Solving problems on LeetCode and NeetCode</li>
+  <li>🌱 Exploring Spring Boot and REST API development</li>
+  <li>🗄️ Learning SQL and database concepts</li>
+  <li>🔧 Improving Git and GitHub workflows</li>
+  <li>🚀 Working toward becoming a Java Full Stack Developer</li>
+</ul>
 
----
+</td>
+
+<td width="40%" valign="top">
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<h3 align="left">☕ Programming, Backend & Database</h3>
+<h3 align="center">☕ Programming, Backend & Database</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java" width="30" alt="Java"/>
+    <img src="https://skillicons.dev/icons?i=java" width="22" alt="Java"/>
   </a>
   <a href="https://spring.io/projects/spring-boot">
-    <img src="https://skillicons.dev/icons?i=spring" width="30" alt="Spring Boot"/>
+    <img src="https://skillicons.dev/icons?i=spring" width="22" alt="Spring Boot"/>
   </a>
   <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" width="30" alt="MySQL"/>
+    <img src="https://skillicons.dev/icons?i=mysql" width="22" alt="MySQL"/>
   </a>
   <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgres" width="30" alt="PostgreSQL"/>
+    <img src="https://skillicons.dev/icons?i=postgres" width="22" alt="PostgreSQL"/>
   </a>
 </p>
 
@@ -71,73 +58,42 @@ I am a **B.Com IT student** passionate about software development, backend engin
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" width="30" alt="HTML5"/>
+    <img src="https://skillicons.dev/icons?i=html" width="22" alt="HTML5"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" width="30" alt="CSS3"/>
+    <img src="https://skillicons.dev/icons?i=css" width="22" alt="CSS3"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=javascript" width="30" alt="JavaScript"/>
+    <img src="https://skillicons.dev/icons?i=javascript" width="22" alt="JavaScript"/>
   </a>
   <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" width="30" alt="React"/>
+    <img src="https://skillicons.dev/icons?i=react" width="22" alt="React"/>
   </a>
 </p>
 
-<h3 align="right">🔧 Tools & Technologies</h3>
+<h3 align="center">🔧 Tools & Technologies</h3>
 
-<p align="right">
+<p align="center">
   <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" width="30" alt="Git"/>
+    <img src="https://skillicons.dev/icons?i=git" width="22" alt="Git"/>
   </a>
   <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" width="30" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" width="22" alt="GitHub"/>
   </a>
   <a href="https://www.linux.org/">
-    <img src="https://skillicons.dev/icons?i=linux" width="30" alt="Linux"/>
+    <img src="https://skillicons.dev/icons?i=linux" width="22" alt="Linux"/>
   </a>
   <a href="https://aws.amazon.com/">
-    <img src="https://skillicons.dev/icons?i=aws" width="30" alt="AWS"/>
+    <img src="https://skillicons.dev/icons?i=aws" width="22" alt="AWS"/>
   </a>
   <a href="https://kafka.apache.org/">
-    <img src="https://skillicons.dev/icons?i=kafka" width="30" alt="Apache Kafka"/>
-  </a>
-</p>
-<h2 align="center">🤝 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://github.com/omkarregade-96">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://leetcode.com/yc6t2qrdvr/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://twitter.com/omkarregade">
-    <img src="https://img.shields.io/twitter/follow/omkarregade?logo=twitter&style=for-the-badge" alt="Twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/omkarregade96">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/omkar_regade">
-    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://discord.gg/FjtrVBEtC">
-    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://skillicons.dev/icons?i=kafka" width="22" alt="Apache Kafka"/>
   </a>
 </p>
 
-<p align="center">
-  📫 Reach me at <strong>[omkarregade.dev@gmail.com](mailto:omkarregade.dev@gmail.com)</strong>
-</p>
+</td>
+
+</tr>
+</table>
 
 ---
-
-<h2 align="center">💡 Developer Mindset</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Practice+%E2%86%92+Build;Break+%E2%86%92+Debug+%E2%86%92+Improve;Keep+Learning.+Keep+Building" alt="Developer Mindset"/>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
-</p>
