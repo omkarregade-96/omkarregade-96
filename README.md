@@ -149,26 +149,6 @@ I am a **B.Com IT student** passionate about software development, backend engin
   <img src="https://github-profile-trophy.vercel.app/?username=omkarregade-96&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub Trophies"/>
 </p>
 
----
-
-<h2 align="center">📌 Featured Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/omkarregade-96/neetcode-submissions.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omkarregade-96&repo=neetcode-submissions&theme=tokyonight&hide_border=true" alt="NeetCode Submissions"/>
-  </a>
-</p>
-
-<h3 align="center">🚀 Projects</h3>
-
-| Project                                                                               | Description                                 | Technology                       |
-| ------------------------------------------------------------------------------------- | ------------------------------------------- | -------------------------------- |
-| 🧠 [NeetCode Submissions](https://github.com/omkarregade-96/neetcode-submissions.git) | DSA and LeetCode problem-solving repository | Java • DSA                       |
-| 🚧 Java Backend Project                                                               | Backend application under development       | Java • Spring Boot • REST API    |
-| 🚧 Full Stack Project                                                                 | Full-stack application under development    | Java • Spring Boot • React • SQL |
-
----
-
 <h2 align="center">📦 Repository Overview</h2>
 
 <p align="center">
