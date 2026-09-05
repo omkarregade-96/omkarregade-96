@@ -120,38 +120,6 @@ I am a **B.Com IT student** passionate about software development, backend engin
   <code>Graphs</code> •
   <code>Dynamic Programming</code>
 </p>
-
-<h3 align="center">🔥 Practice Profiles</h3>
-
-<p align="center">
-  <a href="https://leetcode.com/yc6t2qrdvr/">
-    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
-  </a>
-  <a href="https://github.com/omkarregade-96/neetcode-submissions.git">
-    <img src="https://img.shields.io/badge/DSA%20Solutions-View%20Repository-181717?style=for-the-badge&logo=github" alt="DSA Repository"/>
-  </a>
-</p>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omkarregade-96&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub Trophies"/>
-</p>
-
-<h2 align="center">📦 Repository Overview</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omkarregade-96&theme=tokyonight" alt="Repositories Per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omkarregade-96&theme=tokyonight" alt="Most Used Language"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omkarregade-96&theme=tokyonight" alt="GitHub Statistics"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omkarregade-96&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-</p>
-
----
-
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
