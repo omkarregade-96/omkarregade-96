@@ -117,7 +117,7 @@ my skills in <strong>Java Full Stack Development</strong>, with a focus on
 <h4 align="left">💻 LeetCode Journey</h4>
 
 <p align="left">
-  <a href="https://leetcode.com/yc6t2qrdvr/">
+  <a href="https://leetcode.com/omkar_regade/">
     <img src="https://leetcard.jacoblin.cool/yc6t2qrdvr?theme=dark&font=baloo&ext=heatmap"
          alt="LeetCode Stats"
          width="420"/>
