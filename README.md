@@ -94,7 +94,7 @@ my skills in <strong>Java Full Stack Development</strong>, with a focus on
 <h4 align="center">🧠 DSA Practice</h4>
 
 <p align="center">
-  <a href="https://leetcode.com/yc6t2qrdvr/">
+  <a href="https://leetcode.com/omkar_regade/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white"
          width="110"
          alt="LeetCode"/>
