@@ -1,4 +1,3 @@
-```html
 <table>
 <tr>
 
@@ -86,19 +85,18 @@
 
 </td>
 
-
 <td width="40%" valign="top" align="center">
 
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00A8E8&center=true&vCenter=true&width=350&lines=Java+Full+Stack+Developer;DSA+Enthusiast;Spring+Boot+Developer;Building+Real+World+Projects"
-     alt="Typing SVG"/>
+  alt="Typing SVG"/>
 
 <br><br>
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ5N29vcWNwcjJuZW9ucHoxbmEwN3BieGk2OHYxOGd3eng3dWh3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"
-     width="280"
-     alt="Coding Animation"/>
+  width="280"
+  alt="Coding Animation"/>
 
 <br><br>
 
@@ -161,4 +159,3 @@
 </p>
 
 ---
-```
