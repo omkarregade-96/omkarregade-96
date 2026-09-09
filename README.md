@@ -34,7 +34,7 @@ my skills in <strong>Java Full Stack Development</strong>, with a focus on
 </td>
 
 <td width="40%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=omkarregade-96&show_icons=true&theme=dark&hide_border=true" width="300" alt="GitHub Stats"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00A8E8&center=true&vCenter=true&width=300&lines=Java+Full+Stack+Developer;DSA+Enthusiast;Building+with+Spring+Boot" alt="Typing SVG"/>
 <h4 align="center"> Tech Stack</h4>
 
 <h4 align="center">☕ Programming, Backend & Database</h4>
