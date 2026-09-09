@@ -5,7 +5,7 @@
 
 <td width="60%" valign="top">
 
-<h4 align="center">🚀 About Me</h4>
+<img src="https://img.shields.io/badge/👨‍💻_About_Me-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" alt="About Me"/>
 
 <p align="left">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ5N29vcWNwcjJuZW9ucHoxbmEwN3BieGk2OHYxOGd3eng3dWh3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"
