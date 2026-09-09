@@ -1,15 +1,15 @@
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="32%" valign="top">
 
 <h4 align="center">
-  <img src="https://img.shields.io/badge/👨‍💻_About_Me-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" width="125" alt="About Me"/>
+  <img src="https://img.shields.io/badge/👨‍💻_About_Me-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" width="70" alt="About Me"/>
 </h4>
 
 <p align="left">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ5N29vcWNwcjJuZW9ucHoxbmEwN3BieGk2OHYxOGd3eng3dWh3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"
-       width="65"
+       width="32"
        alt="Coding Animation"/>
 </p>
 
@@ -33,16 +33,16 @@
 
 <p align="center">
   <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java" width="26" alt="Java"/>
+    <img src="https://skillicons.dev/icons?i=java" width="10" alt="Java"/>
   </a>
   <a href="https://spring.io/projects/spring-boot">
-    <img src="https://skillicons.dev/icons?i=spring" width="26" alt="Spring Boot"/>
+    <img src="https://skillicons.dev/icons?i=spring" width="10" alt="Spring Boot"/>
   </a>
   <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" width="26" alt="MySQL"/>
+    <img src="https://skillicons.dev/icons?i=mysql" width="10" alt="MySQL"/>
   </a>
   <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgres" width="26" alt="PostgreSQL"/>
+    <img src="https://skillicons.dev/icons?i=postgres" width="10" alt="PostgreSQL"/>
   </a>
 </p>
 
@@ -50,16 +50,16 @@
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" width="26" alt="HTML5"/>
+    <img src="https://skillicons.dev/icons?i=html" width="10" alt="HTML5"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" width="26" alt="CSS3"/>
+    <img src="https://skillicons.dev/icons?i=css" width="10" alt="CSS3"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=javascript" width="26" alt="JavaScript"/>
+    <img src="https://skillicons.dev/icons?i=javascript" width="10" alt="JavaScript"/>
   </a>
   <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" width="26" alt="React"/>
+    <img src="https://skillicons.dev/icons?i=react" width="10" alt="React"/>
   </a>
 </p>
 
@@ -67,19 +67,19 @@
 
 <p align="center">
   <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" width="26" alt="Git"/>
+    <img src="https://skillicons.dev/icons?i=git" width="10" alt="Git"/>
   </a>
   <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" width="26" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" width="10" alt="GitHub"/>
   </a>
   <a href="https://www.linux.org/">
-    <img src="https://skillicons.dev/icons?i=linux" width="26" alt="Linux"/>
+    <img src="https://skillicons.dev/icons?i=linux" width="10" alt="Linux"/>
   </a>
   <a href="https://aws.amazon.com/">
-    <img src="https://skillicons.dev/icons?i=aws" width="26" alt="AWS"/>
+    <img src="https://skillicons.dev/icons?i=aws" width="10" alt="AWS"/>
   </a>
   <a href="https://kafka.apache.org/">
-    <img src="https://skillicons.dev/icons?i=kafka" width="26" alt="Apache Kafka"/>
+    <img src="https://skillicons.dev/icons?i=kafka" width="10" alt="Apache Kafka"/>
   </a>
 </p>
 
@@ -101,7 +101,7 @@
 <br><br>
 
 <h4>
-  <img src="https://img.shields.io/badge/🧠_DSA_Practice-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" width="125" alt="DSA Practice"/>
+  <img src="https://img.shields.io/badge/🧠_DSA_Practice-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" width="70" alt="DSA Practice"/>
 </h4>
 
 <p>
@@ -115,7 +115,7 @@
 <p>
   <a href="https://neetcode.io/user/PixelWarden96">
     <img src="https://img.shields.io/badge/NeetCode-Profile-000000?style=flat&logo=neetcode&logoColor=white"
-         width="110"
+         width="60"
          alt="NeetCode"/>
   </a>
 </p>
@@ -135,7 +135,7 @@
   <a href="https://leetcode.com/omkar_regade/">
     <img src="https://leetcard.jacoblin.cool/omkar_regade?theme=dark&font=baloo&ext=heatmap"
          alt="LeetCode Stats"
-         width="400"/>
+         width="40"/>
   </a>
 </p>
 
