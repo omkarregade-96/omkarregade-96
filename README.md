@@ -34,8 +34,8 @@ my skills in <strong>Java Full Stack Development</strong>, with a focus on
 </td>
 
 <td width="40%" valign="top">
-
-<h4 align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" width="300" alt="GitHub Stats"/> Tech Stack</h4>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" width="300" alt="GitHub Stats"/>
+<h4 align="center"> Tech Stack</h4>
 
 <h4 align="center">☕ Programming, Backend & Database</h4>
 
