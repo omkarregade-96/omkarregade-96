@@ -14,23 +14,21 @@
        alt="Coding Animation"/>
 </p>
 
-<p>
-I am a <strong>B.Com IT student</strong> passionate about software development,
-backend engineering, and problem-solving. I am currently learning and building
-my skills in <strong>Java Full Stack Development</strong>, with a focus on
-<strong>Java, Data Structures & Algorithms, SQL, Spring Boot, and REST APIs</strong>.
-</p>
+<<img src="https://img.shields.io/badge/👨‍💻_About_Me-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" alt="About Me"/>
 
-<ul>
-  <li>🎓 Pursuing B.Com IT</li>
-  <li>☕ Learning and building with Java</li>
-  <li>🧠 Practicing DSA and problem-solving</li>
-  <li>💻 Solving problems on LeetCode and NeetCode</li>
-  <li>🌱 Exploring Spring Boot and REST API development</li>
-  <li>🗄️ Learning SQL and database concepts</li>
-  <li>🔧 Improving Git and GitHub workflows</li>
-  <li>🚀 Working toward becoming a Java Full Stack Developer</li>
-</ul>
+<img src="https://img.shields.io/badge/🛠️_Tech_Stack-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" alt="Tech Stack"/>
+
+<img src="https://img.shields.io/badge/☕_Programming_&_Backend-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" alt="Programming Backend"/>
+
+<img src="https://img.shields.io/badge/🌐_Frontend-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" alt="Frontend"/>
+
+<img src="https://img.shields.io/badge/🔧_Tools_&_Technologies-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" alt="Tools"/>
+
+<img src="https://img.shields.io/badge/🧠_DSA_Practice-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" alt="DSA Practice"/>
+
+<img src="https://img.shields.io/badge/💻_LeetCode_Journey-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" alt="LeetCode Journey"/>
+
+<img src="https://img.shields.io/badge/🧠_NeetCode_Journey-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" alt="NeetCode Journey"/>
 
 </td>
 
