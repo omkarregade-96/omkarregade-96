@@ -4,7 +4,7 @@
 <td width="32%" valign="top">
 
 <h4 align="center">
-  <img src="https://img.shields.io/badge/👨‍💻_About_Me-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" width="70" alt="About Me"/>
+  <img src="https://img.shields.io/badge/👨‍💻_About_Me-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" width="10" alt="About Me"/>
 </h4>
 
 <p align="left">
