@@ -1,143 +1,126 @@
----
+````markdown
+# 👋 Hi, I'm Omkar Regade
 
-<table>
-<tr>
+### ☕ Java Full Stack Developer | 🧠 DSA Enthusiast | 🚀 Backend Development
 
-<td width="60%" valign="top">
-
-<h4 align="center">
-  <img src="https://img.shields.io/badge/👨‍💻_About_Me-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" alt="About Me"/>
-</h4>
-<p align="left">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ5N29vcWNwcjJuZW9ucHoxbmEwN3BieGk2OHYxOGd3eng3dWh3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"
-       width="55"
-       alt="Coding Animation"/>
-</p>
-
-<<img src="https://img.shields.io/badge/👨‍💻_About_Me-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" alt="About Me"/>
-
-<img src="https://img.shields.io/badge/🛠️_Tech_Stack-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" alt="Tech Stack"/>
-
-<img src="https://img.shields.io/badge/☕_Programming_&_Backend-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" alt="Programming Backend"/>
-
-<img src="https://img.shields.io/badge/🌐_Frontend-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" alt="Frontend"/>
-
-<img src="https://img.shields.io/badge/🔧_Tools_&_Technologies-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" alt="Tools"/>
-
-<img src="https://img.shields.io/badge/🧠_DSA_Practice-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" alt="DSA Practice"/>
-
-<img src="https://img.shields.io/badge/💻_LeetCode_Journey-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" alt="LeetCode Journey"/>
-
-<img src="https://img.shields.io/badge/🧠_NeetCode_Journey-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" alt="NeetCode Journey"/>
-
-</td>
-
-<td width="40%" valign="top">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00A8E8&center=true&vCenter=true&width=300&lines=Java+Full+Stack+Developer;DSA+Enthusiast;Building+with+Spring+Boot" alt="Typing SVG"/>
-<h4 align="center"> Tech Stack</h4>
-
-<h4 align="center">☕ Programming, Backend & Database</h4>
-
-<p align="center">
-  <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java" width="22" alt="Java"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://skillicons.dev/icons?i=spring" width="22" alt="Spring Boot"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" width="22" alt="MySQL"/>
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgres" width="22" alt="PostgreSQL"/>
-  </a>
-</p>
-
-<h4 align="center">🌐 Frontend</h4>
-
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" width="22" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" width="22" alt="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=javascript" width="22" alt="JavaScript"/>
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" width="22" alt="React"/>
-  </a>
-</p>
-
-<h4 align="center">🔧 Tools & Technologies</h4>
-
-<p align="center">
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" width="22" alt="Git"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" width="22" alt="GitHub"/>
-  </a>
-  <a href="https://www.linux.org/">
-    <img src="https://skillicons.dev/icons?i=linux" width="22" alt="Linux"/>
-  </a>
-  <a href="https://aws.amazon.com/">
-    <img src="https://skillicons.dev/icons?i=aws" width="22" alt="AWS"/>
-  </a>
-  <a href="https://kafka.apache.org/">
-    <img src="https://skillicons.dev/icons?i=kafka" width="22" alt="Apache Kafka"/>
-  </a>
-</p>
-
-<h4 align="center">🧠 DSA Practice</h4>
-
-<p align="center">
-  <a href="https://leetcode.com/omkar_regade/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white"
-         width="110"
-         alt="LeetCode"/>
-  </a>
-
-  <a href="https://neetcode.io/user/PixelWarden96">
-    <img src="https://img.shields.io/badge/NeetCode-Profile-000000?style=flat&logo=neetcode&logoColor=white"
-         width="110"
-         alt="NeetCode"/>
-  </a>
-</p>
-
-</td>
-
-</tr>
-</table>
+I'm currently focused on becoming a strong **Java Full Stack Developer**, with an emphasis on backend development, problem solving, and building real-world projects.
 
 ---
 
-<h4 align="left">💻 LeetCode Journey</h4>
+## 👨‍💻 About Me
 
-<p align="left">
-  <a href="https://leetcode.com/omkar_regade/">
-    <img src="https://leetcard.jacoblin.cool/omkar_regade?theme=dark&font=baloo&ext=heatmap"
-         alt="LeetCode Stats"
-         width="420"/>
-  </a>
-</p>
+- ☕ Learning **Core Java & Object-Oriented Programming**
+- 🌱 Building skills in **Spring Boot & REST APIs**
+- 🗄️ Working with **SQL & Database Management**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🌐 Learning **Frontend Development with React**
+- 🔧 Using **Git & GitHub** for version control
+- ☁️ Exploring **AWS, Linux & DevOps fundamentals**
+- 🚀 Focused on building practical, production-oriented projects
+
+---
+
+## 🛠️ Tech Stack
+
+### ☕ Programming & Backend
+
+![Java](https://skillicons.dev/icons?i=java)
+![Spring](https://skillicons.dev/icons?i=spring)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+
+### 🌐 Frontend
+
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![React](https://skillicons.dev/icons?i=react)
+
+### 🔧 Tools & Technologies
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Linux](https://skillicons.dev/icons?i=linux)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Kafka](https://skillicons.dev/icons?i=kafka)
 
 ---
 
-<h4 align="right">🧠 NeetCode Journey</h4>
+## 🧠 DSA & Problem Solving
 
-<p align="right">
-  <a href="https://neetcode.io/user/PixelWarden96">
-    <img src="https://img.shields.io/badge/NeetCode-View%20Profile-000000?style=flat&logo=neetcode&logoColor=white"
-         alt="NeetCode Profile"
-         width="100"/>
-  </a>
-</p>
+Currently practicing **Data Structures & Algorithms** with a focus on:
 
-<p align="right">
-  <strong>🚀 DSA Practice & Problem Solving</strong><br>
-  Practicing Data Structures & Algorithms through the NeetCode roadmap.
-</p>
+- Arrays
+- Strings
+- Searching & Sorting
+- Two Pointers
+- Binary Search
+- Hashing
+- Linked Lists
+- Stacks & Queues
+- Trees
+- Graphs
+- Dynamic Programming
+
+### 💻 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/omkar_regade/)
+
+[![NeetCode](https://img.shields.io/badge/NeetCode-Roadmap-000000?style=for-the-badge&logo=neetcode&logoColor=white)](https://neetcode.io/user/PixelWarden96)
 
 ---
+
+## 📊 LeetCode Journey
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/omkar_regade?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/omkar_regade/)
+
+---
+
+## 🎯 Current Learning Path
+
+```text
+Core Java
+    ↓
+DSA + Problem Solving
+    ↓
+SQL & Database
+    ↓
+Spring Boot
+    ↓
+REST APIs
+    ↓
+React
+    ↓
+Full Stack Projects
+    ↓
+DevOps & Cloud
+````
+
+---
+
+## 🚀 Goals
+
+* Build strong **Java & Spring Boot** fundamentals
+* Solve DSA problems consistently
+* Build real-world full-stack applications
+* Improve backend architecture and API development
+* Learn DevOps & Cloud fundamentals
+* Become **job-ready as a Java Full Stack Developer**
+
+---
+
+## 📌 Currently Working On
+
+> ☕ Java + DSA + SQL + Spring Boot
+> 🚀 Building projects
+> 🧠 Improving problem-solving skills
+> 📚 Learning something new every day
+
+---
+
+### ⭐ Keep Learning • Keep Building • Keep Improving
+
+```
+
+**Ye pure Markdown hai** — `<table>`, `<td>`, `<img>`, `<h4>` kuch bhi nahi.
+```
