@@ -1,161 +1,100 @@
-<table>
-<tr>
+<div align="center">
 
-<td width="32%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:00A8E8&height=180&section=header&text=Omkar%20Regade&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<h4 align="center">
-  <img src="https://img.shields.io/badge/👨‍💻_About_Me-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" width="100" alt="About Me"/>
-</h4>
-
-<p align="left">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ5N29vcWNwcjJuZW9ucHoxbmEwN3BieGk2OHYxOGd3eng3dWh3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"
-       width="12"
-       alt="Coding Animation"/>
-</p>
-
-<p>
-  👋 Hi, I'm <strong>Omkar Regade</strong>
-</p>
-
-<p>
-  🚀 Java Full Stack Developer in progress<br>
-  ☕ Focused on Java, Spring Boot & Backend Development<br>
-  🧠 Practicing Data Structures & Algorithms<br>
-  🌐 Learning Full Stack Development<br>
-  🔧 Building practical and real-world projects
-</p>
-
-<h4 align="center">
-  <img src="https://img.shields.io/badge/🛠️_Tech_Stack-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" width="125" alt="Tech Stack"/>
-</h4>
-
-<h4 align="center">☕ Programming, Backend & Database</h4>
-
-<p align="center">
-  <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java" width="10" alt="Java"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://skillicons.dev/icons?i=spring" width="10" alt="Spring Boot"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" width="10" alt="MySQL"/>
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgres" width="10" alt="PostgreSQL"/>
-  </a>
-</p>
-
-<h4 align="center">🌐 Frontend</h4>
-
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" width="10" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" width="10" alt="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=javascript" width="10" alt="JavaScript"/>
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" width="10" alt="React"/>
-  </a>
-</p>
-
-<h4 align="center">🔧 Tools & Technologies</h4>
-
-<p align="center">
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" width="10" alt="Git"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" width="10" alt="GitHub"/>
-  </a>
-  <a href="https://www.linux.org/">
-    <img src="https://skillicons.dev/icons?i=linux" width="10" alt="Linux"/>
-  </a>
-  <a href="https://aws.amazon.com/">
-    <img src="https://skillicons.dev/icons?i=aws" width="10" alt="AWS"/>
-  </a>
-  <a href="https://kafka.apache.org/">
-    <img src="https://skillicons.dev/icons?i=kafka" width="10" alt="Apache Kafka"/>
-  </a>
-</p>
-
-</td>
-
-<td width="40%" valign="top" align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+in+Progress;Spring+Boot+%7C+REST+APIs;DSA+Learner+%7C+Problem+Solver;Building+Real-World+Projects" alt="Typing animation"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00A8E8&center=true&vCenter=true&width=280&lines=Java+Full+Stack+Developer;DSA+Enthusiast;Spring+Boot+Developer;Building+Real+World+Projects"
-     alt="Typing SVG"/>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/omkar_regade/)
+[![NeetCode](https://img.shields.io/badge/NeetCode-000000?style=flat-square&logo=neetcode&logoColor=white)](https://neetcode.io/user/PixelWarden96)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/omkarregade)
 
-<br><br>
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ5N29vcWNwcjJuZW9ucHoxbmEwN3BieGk2OHYxOGd3eng3dWh3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"
-     width="170"
-     alt="Coding Animation"/>
-
-<br><br>
-
-<h4>
-  <img src="https://img.shields.io/badge/🧠_DSA_Practice-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" width="70" alt="DSA Practice"/>
-</h4>
-
-<p>
-  <a href="https://leetcode.com/omkar_regade/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white"
-         width="110"
-         alt="LeetCode"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://neetcode.io/user/PixelWarden96">
-    <img src="https://img.shields.io/badge/NeetCode-Profile-000000?style=flat&logo=neetcode&logoColor=white"
-         width="60"
-         alt="NeetCode"/>
-  </a>
-</p>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
-<h4 align="left">
-  <img src="https://img.shields.io/badge/💻_LeetCode_Journey-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" width="145" alt="LeetCode Journey"/>
-</h4>
+## 👨‍💻 About Me
 
-<p align="left">
-  <a href="https://leetcode.com/omkar_regade/">
-    <img src="https://leetcard.jacoblin.cool/omkar_regade?theme=dark&font=baloo&ext=heatmap"
-         alt="LeetCode Stats"
-         width="40"/>
-  </a>
+```java
+public class OmkarRegade {
+
+    String role = "Java Backend Developer in Progress";
+    String focus = "Java, Spring Boot, REST APIs and DSA";
+    String goal = "Build scalable and useful software";
+    String currentlyLearning = "Backend Development and DevOps";
+}
+```
+
+- 🎓 BCom IT student from India
+- ☕ Learning Java and Spring Boot
+- 🧠 Practicing Data Structures and Algorithms
+- 🔧 Building practical backend projects
+- 🌱 Exploring DevOps, AWS and system design
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,html,css,js,react,git,github,linux,docker,aws&perline=7" alt="Tech Stack"/>
+
 </p>
 
 ---
 
-<h4 align="right">
-  <img src="https://img.shields.io/badge/🧠_NeetCode_Journey-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" width="155" alt="NeetCode Journey"/>
-</h4>
+## 🧠 DSA Practice
 
-<p align="right">
-  <a href="https://neetcode.io/user/PixelWarden96">
-    <img src="https://img.shields.io/badge/NeetCode-View_Profile-000000?style=flat&logo=neetcode&logoColor=white"
-         width="110"
-         alt="NeetCode Profile"/>
-  </a>
-</p>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/omkar_regade?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/omkar_regade/)
 
-<p align="right">
-  <strong>🚀 DSA Practice & Problem Solving</strong><br>
-  Practicing Data Structures & Algorithms through the NeetCode roadmap.
+[![NeetCode Profile](https://img.shields.io/badge/NeetCode-View_Profile-000000?style=for-the-badge&logo=neetcode&logoColor=white)](https://neetcode.io/user/PixelWarden96)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=omkarregade&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarregade&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
+
 </p>
 
 ---
+
+## 🚀 Current Goals
+
+- Build strong Spring Boot projects
+- Improve Java and DSA problem-solving
+- Learn Docker, AWS and CI/CD
+- Prepare for software-development internships
+- Contribute to open-source projects
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/omkarregade/omkarregade/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-regade/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,50:1F6FEB,100:0D1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
