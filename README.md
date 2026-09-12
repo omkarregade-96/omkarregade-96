@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:00A8E8&height=60&section=header&text=Omkar%20Regade&fontSize=18&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:00A8E8&height=55&section=header&text=Omkar%20Regade&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="65%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=11&pause=900&color=00A8E8&center=true&vCenter=true&width=380&height=22&lines=Java+Backend+Developer;Spring+Boot+Learner;DSA+Problem+Solver;Building+Real-World+Projects" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=10&pause=900&color=00A8E8&center=true&vCenter=true&width=340&height=18&lines=Java+Backend+Developer;Spring+Boot+Learner;DSA+Problem+Solver;Building+Real-World+Projects" alt="Typing animation"/>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/omkar_regade/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/omkarregade)
@@ -13,23 +13,23 @@
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ About Me & 🛠️ Tech Stack
+### About Me & Tech Stack
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=10&pause=1000&color=7AA2F7&center=true&vCenter=true&width=300&height=20&lines=Learn+%E2%86%92+Build+%E2%86%92+Solve;Improving+Java+%26+DSA+daily" alt="About Me animation"/>
+<sub>Turning ideas into real-world applications — improving Java & DSA every day.</sub>
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react" height="18"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" height="16"/>
 <br>
-<img src="https://skillicons.dev/icons?i=java,spring,maven" height="18"/>
+<img src="https://skillicons.dev/icons?i=java,spring,maven" height="16"/>
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" height="18"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" height="16"/>
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws" height="18"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws" height="16"/>
 </p>
 
-**🚀 Goals**
+**Goals**
 - Improve Java & DSA
 - Build Spring Boot REST APIs
 - Learn Docker, AWS, CI/CD
@@ -38,10 +38,10 @@
 </td>
 <td width="50%" valign="top">
 
-### 🧠 DSA & 📊 GitHub Stats
+### DSA & GitHub Stats
 
 <p align="center">
-<a href="https://leetcode.com/u/omkar_regade/"><img src="https://leetcard.jacoblin.cool/omkar_regade?theme=dark&font=baloo&ext=heatmap" width="100%"/></a>
+<a href="https://leetcode.com/u/omkar_regade/"><img src="https://leetcard.jacoblin.cool/omkar_regade?theme=dark&font=baloo&ext=heatmap" width="95%"/></a>
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=omkarregade&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=omkarregade&show_icons=true&theme=tokyonight&hide_border=true" width="95%"/>
 </p>
 
 </td>
@@ -57,5 +57,5 @@
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,50:1F6FEB,100:0D1117&height=35&section=footer&animation=fadeIn" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,50:1F6FEB,100:0D1117&height=30&section=footer&animation=fadeIn" width="65%"/>
 </div>
