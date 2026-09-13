@@ -9,7 +9,7 @@
 
 </div>
 
-<table width="100%">
+<table width="80%">
 <tr>
 <td width="50%" valign="top">
 
@@ -41,7 +41,7 @@
 ### DSA & GitHub Stats
 
 <p align="center">
-<a href="https://leetcode.com/u/omkar_regade/"><img src="https://leetcard.jacoblin.cool/omkar_regade?theme=dark&font=baloo&ext=heatmap" width="95%"/></a>
+<a href="https://leetcode.com/u/omkar_regade/"><img src="https://leetcard.jacoblin.cool/omkar_regade?theme=dark&font=baloo&ext=heatmap" width="65%"/></a>
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=omkarregade&show_icons=true&theme=tokyonight&hide_border=true" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=omkarregade&show_icons=true&theme=tokyonight&hide_border=true" width="65%"/>
 </p>
 
 </td>
@@ -57,5 +57,5 @@
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,50:1F6FEB,100:0D1117&height=30&section=footer&animation=fadeIn" width="65%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,50:1F6FEB,100:0D1117&height=30&section=footer&animation=fadeIn" width="55%"/>
 </div>
