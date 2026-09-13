@@ -9,9 +9,9 @@
 
 </div>
 
-<table width="80%">
+<table width="65%">
 <tr>
-<td width="50%" valign="top">
+<td width="35%" valign="top">
 
 ### About Me & Tech Stack
 
@@ -20,13 +20,13 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react" height="16"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" height="12"/>
 <br>
-<img src="https://skillicons.dev/icons?i=java,spring,maven" height="16"/>
+<img src="https://skillicons.dev/icons?i=java,spring,maven" height="12"/>
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" height="16"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" height="12"/>
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws" height="16"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws" height="12"/>
 </p>
 
 **Goals**
