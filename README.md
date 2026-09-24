@@ -115,7 +115,7 @@ A structured collection of Java solutions for DSA problems.
 
 <div align="center">
 
-<a href="https://leetcode.com/u/omkar_regade-96/">
+<a href="https://leetcode.com/u/omkar_regade/">
 <img src="https://leetcard.jacoblin.cool/omkar_regade-96?theme=dark&font=baloo&ext=heatmap" width="380"/>
 </a>
 
