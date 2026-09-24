@@ -9,8 +9,8 @@ Building practical backend applications with Java, Spring Boot and SQL.
 </p>
 
 <p>
-<a href="https://github.com/omkarregade">
-<img src="https://img.shields.io/badge/GitHub-omkarregade-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/omkarregade-96">
+<img src="https://img.shields.io/badge/GitHub-omkarregade-96-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/u/omkar_regade/">
 <img src="https://img.shields.io/badge/LeetCode-omkar__regade-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
@@ -77,7 +77,7 @@ A backend application built with Spring Boot and SQL.
 - Database integration
 - Exception handling
 
-<a href="https://github.com/omkarregade">
+<a href="https://github.com/omkarregade-96">
 <img src="https://img.shields.io/badge/View%20Project-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -99,7 +99,7 @@ A structured collection of Java solutions for DSA problems.
 - Linked Lists
 - Stack and Queue
 
-<a href="https://github.com/omkarregade">
+<a href="https://github.com/omkarregade-96">
 <img src="https://img.shields.io/badge/View%20Solutions-00A8E8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -116,7 +116,7 @@ A structured collection of Java solutions for DSA problems.
 <div align="center">
 
 <a href="https://leetcode.com/u/omkar_regade/">
-<img src="https://leetcard.jacoblin.cool/omkar_regade?theme=dark&font=baloo&ext=heatmap" width="480"/>
+<img src="https://leetcard.jacoblin.cool/omkar_regade-96?theme=dark&font=baloo&ext=heatmap" width="380"/>
 </a>
 
 </div>
@@ -133,7 +133,7 @@ A structured collection of Java solutions for DSA problems.
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=omkarregade&theme=tokyonight&hide_border=true" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=omkarregade-96&theme=tokyonight&hide_border=true" width="65%"/>
 
 </div>
 
@@ -158,11 +158,11 @@ AWS                ████░░░░░░░░░░░░░░░░ 
 
 If you are interested in backend development, Java, DSA or building projects, feel free to connect with me.
 
-<a href="https://github.com/omkarregade">
+<a href="https://github.com/omkarregade-96">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/omkar_regade/">
+<a href="https://leetcode.com/u/omkar_regade-96/">
 <img src="https://img.shields.io/badge/LeetCode-Connect-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
