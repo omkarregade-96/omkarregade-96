@@ -115,7 +115,7 @@ A structured collection of Java solutions for DSA problems.
 
 <div align="center">
 
-<a href="https://leetcode.com/u/omkar_regade/">
+<a href="https://leetcode.com/u/omkar_regade-96/">
 <img src="https://leetcard.jacoblin.cool/omkar_regade-96?theme=dark&font=baloo&ext=heatmap" width="380"/>
 </a>
 
@@ -127,9 +127,9 @@ A structured collection of Java solutions for DSA problems.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=omkarregade&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=omkarregade-96&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarregade&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarregade-96&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="40%"/>
 
 <br><br>
 
