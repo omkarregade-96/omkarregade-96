@@ -28,7 +28,7 @@ Building practical backend applications with Java, Spring Boot and SQL.
 
 ## 👋 About Me
 
-- 🎓 BCom IT student from Pune, India
+- 🎓 BCom IT student 
 - ☕ Focused on Java backend development
 - 🧠 Practising Data Structures and Algorithms
 - 🔧 Building REST APIs and database-driven applications
