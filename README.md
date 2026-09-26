@@ -49,11 +49,11 @@ Building practical backend applications with Java, Spring Boot and SQL.
 
 ### Backend and Databases
 
-<img src="https://skillicons.dev/icons?i=spring,maven,mysql,postgres" height="45"/>
+<img src="https://skillicons.dev/icons?i=spring,maven,mysql,postgres" height="40"/>
 
 ### Tools and DevOps
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux" height="45"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux" height="40"/>
 
 </div>
 
